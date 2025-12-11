@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit
 
 object AIClient {
     private const val BASE_URL = "https://api-inference.modelscope.cn/v1"
-    private const val API_KEY = "ms-4e134970-64c4-4b7f-9db3-df854f1350c9"
+    private const val API_KEY = "your api key here"
 
     private val gson = Gson()
 
