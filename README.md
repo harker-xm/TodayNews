@@ -7,6 +7,11 @@
 ## 📱 项目演示
 
 本项目实现了从数据持久化、分页加载到声明式 UI 渲染的完整链路。
+
+项目运行前，请先申请一个modelscope api，并填入apikey
+
+<img src="screenshots/apikey.png" alt="Home Screen" width="500"/>
+
 ### 📸 截图
 <table>
   <thead>
